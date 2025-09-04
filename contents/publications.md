@@ -1,16 +1,12 @@
-#### Submitted
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
+- 文字｜南大新传未来编辑部·核真录 姚秀灵 编辑｜段明淼 张瀚之 排版｜万辉辉(2025).真相解码器 | 科普还是造谣？食品安全“旧谣新炒”如何防范？ [[Link]](https://mp.weixin.qq.com/s/XW3NewXRMzbYRrZgFRVcZQ)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+-  策划 | 未来编辑部 · 新潮学生 胡俊杰 万辉辉 郭欣哲 编辑 | 王一如 郭欣哲 指导老师 | 白 净(2025). 征集 | 用AI写诗，为南大庆生[[Link]](https://mp.weixin.qq.com/s/j6c46HjzU8YVAUyIOmWMwQ)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- 图文 | 未来编辑部 · 新潮学生 孙际雅 林倩伊 刘奇 万辉辉 编辑 | 刘 洋 指导老师 | 白 净 (2025). 数据 | 节假日调休为何频频上热搜？ [[Link]](https://mp.weixin.qq.com/s/8ZzgquJjRXM64LtiqP8teg)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- 图文丨未来编辑部 · 新潮学生 林歆纯 潘奕忻 朱丹 万辉辉 谢欣 指导老师 | 白 净 编辑 | 王一如 刘 洋 (2025).调查 | 匿名发帖论坛“火”起来，校园集市知多少？  [[Link]](https://mp.weixin.qq.com/s/Ldl9cvEeVWUdtnWjUMCwxQ)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- 图文 | 未来编辑部 · 新潮学生 唐志谦 曾丹 朱雪莉 万辉辉 指导老师 | 白  净 编辑 | 林秸妮 (2024). 纪实｜我在南大上“魔鬼减脂课”. [[Link]](https://mp.weixin.qq.com/s/bY-0SUEGpVvAQWg0OerJkA)
 
